@@ -1,1 +1,2 @@
 # SimpleCustomerApp
+For SonarQuabe configuration
